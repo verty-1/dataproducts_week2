@@ -111,7 +111,7 @@ teamLatLong <- data.frame(
 
 teamSites <- c(
   "<a href='https://www.google.com/maps/place/University+of+Phoenix+Stadium/@33.5276247,-112.264748,945m/data=!3m2!1e3!5s0x872b404828c7c8d3:0x7878fa75abac5570!4m8!1m2!2m1!1suniversity+of+phoenix+stadium,+Phoenix+Metropolitan+Area,+East+Veterans+Way,+Tempe,+AZ!3m4!1s0x872b40484caa40dd:0xb9c497aa9569305b!8m2!3d33.5276247!4d-112.2625593'>Arizona Cardinals, Univ. of Phoenix Stadium</a>",
-  "<a href='https://www.google.com/maps/place/Levi's+Stadium/@37.4032235,-121.9720247,854m/data=!3m2!1e3!4b1!4m5!3m4!1s0x808fc9c827c5f0df:0x11455a372e1f7d18!8m2!3d37.402317!4d-121.9689954'>San Francisco 49ers, Levis Stadium</a>",
+  "<a href='https://www.google.com/maps/place/4900+Marie+P+DeBartolo+Way,+Santa+Clara,+CA+95054/@37.4031582,-121.9720244,854m/data=!3m2!1e3!4b1!4m5!3m4!1s0x808fc9b7df7b689d:0x6750c96539e523ab!8m2!3d37.403154!4d-121.9698357'>San Francisco 49ers, Levis Stadium</a>",
   "<a href='https://www.google.com/maps/place/CenturyLink+Field/@47.5951554,-122.3338281,725m/data=!3m2!1e3!4b1!4m5!3m4!1s0x54906aa3b9f1182b:0xa636cd513bba22dc!8m2!3d47.5951518!4d-122.3316394'>Seattle Seahawks, CenturyLink Field</a>",
   "<a href='https://www.google.com/maps/place/LA+Memorial+Coliseum/@34.014057,-118.2900641,891m/data=!3m3!1e3!4b1!5s0x80c2c80878693a29:0xad0170a7ce1f864c!4m5!3m4!1s0x80c2c807d74e67fb:0x54cf0a70d5943d36!8m2!3d34.0140526!4d-118.2878754'>Los Angeles Rams, LA Memorial Coliseum</a>", 
   
